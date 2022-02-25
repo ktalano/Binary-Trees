@@ -10,7 +10,7 @@ int main(){
         arbol->insert_data(rand()%50);
     }
     arbol->printBT();
-    return 1;
+    return 0;
 }
 
 //Constructor
