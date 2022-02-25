@@ -10,6 +10,7 @@ int main(){
         arbol->insert_data(rand()%50);
     }
     arbol->printBT();
+    system("pause");
     return 0;
 }
 
